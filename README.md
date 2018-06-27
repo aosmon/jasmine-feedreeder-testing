@@ -1,5 +1,3 @@
-frontend-nanodegree-arcade-game
-===============================
 
 # Project Description
 
